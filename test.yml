@@ -1,0 +1,7 @@
+--- 
+- 
+    hosts: localhost
+    tasks: 
+      - 
+        debug: "msg=\"Hello World\""
+        name: Helloworld
